@@ -1,12 +1,17 @@
 body{
     background-color:  hsl(30, 38%, 92%);
-    padding: 55px;
+    
     justify-content: center;
     align-items: center;
-    margin: 1rem 16rem;
+
     width: 100%;
     max-width: 1000px;
     font-family: "Montserrat", sans-serif;
+    min-height: 100svh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-inline: auto;
     
 }
 .container{
