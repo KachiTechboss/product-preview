@@ -2,7 +2,7 @@
 @media screen and (max-width: 799px) {
     body{
         background-color:  hsl(30, 38%, 92%);
-        padding: 40px 15px;
+        padding: 40px 5px;
         justify-content: center;
         align-items: center;
         margin: 0;
@@ -82,7 +82,6 @@
         width: 100%;
         text-align: center;
         border: none;
-        padding: 5px 5px;
         border-radius: 10px;
     
     
