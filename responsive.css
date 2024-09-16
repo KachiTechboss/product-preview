@@ -2,13 +2,12 @@
 @media screen and (max-width: 425px) {
     body{
         background-color:  hsl(30, 38%, 92%);
-        padding: 30px;
+        padding: 50px 10px;
         justify-content: center;
         align-items: center;
-        margin: 18rem 1rem auto 1rem ;
+        margin: 0;
         width: 100%;
         max-width: 1000px;
-        overflow: hidden;
         
     }
     .container{
@@ -16,6 +15,7 @@
         flex-direction: column;
         justify-items: center;
         align-items: center;
+        width: 100%;
     
     
      
@@ -39,7 +39,7 @@
         border-top-right-radius: 0px;
         border-bottom-right-radius: 10px;
         border-bottom-left-radius: 10px;
-        width: 315px;
+        width: auto;
         height: 100%;
         padding: 30px;
         margin-top: -4px;

@@ -1,9 +1,9 @@
 body{
     background-color:  hsl(30, 38%, 92%);
-    padding: 90px;
+    padding: 55px;
     justify-content: center;
     align-items: center;
-    margin: auto 20rem;
+    margin: 1rem 16rem;
     width: 100%;
     max-width: 1000px;
     font-family: "Montserrat", sans-serif;
